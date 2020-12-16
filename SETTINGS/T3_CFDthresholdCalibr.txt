@@ -1,0 +1,7 @@
+
+[SOURCE]
+; data for cfd threshold calibration scan
+S1=1500
+S2=2500
+SS=50
+DO_SET_CFD_ZERO=1

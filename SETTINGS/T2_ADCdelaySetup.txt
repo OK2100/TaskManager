@@ -1,0 +1,7 @@
+
+
+[SOURCE]
+; data for adc delay scan
+S1=0
+S2=20000
+SS=1000

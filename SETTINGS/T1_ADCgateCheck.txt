@@ -1,0 +1,7 @@
+
+
+[SOURCE]
+; data for laser phase scan
+S1=-12500
+S2=12500
+SS=1000
